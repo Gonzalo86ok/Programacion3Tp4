@@ -1,0 +1,6 @@
+C:\Users\Nahuel\OneDrive\Escritorio\TP-PROGRA-III\ABM-Productos-UTN\dominio\bin\Debug\dominio.dll
+C:\Users\Nahuel\OneDrive\Escritorio\TP-PROGRA-III\ABM-Productos-UTN\dominio\bin\Debug\dominio.pdb
+C:\Users\Nahuel\OneDrive\Escritorio\TP-PROGRA-III\ABM-Productos-UTN\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Nahuel\OneDrive\Escritorio\TP-PROGRA-III\ABM-Productos-UTN\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\OneDrive\Escritorio\TP-PROGRA-III\ABM-Productos-UTN\dominio\obj\Debug\dominio.dll
+C:\Users\Nahuel\OneDrive\Escritorio\TP-PROGRA-III\ABM-Productos-UTN\dominio\obj\Debug\dominio.pdb
