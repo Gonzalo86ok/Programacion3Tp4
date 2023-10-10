@@ -11,7 +11,7 @@ namespace Carrito
 {
 
 
-    public partial class Defaul
+    public partial class About
     {
     }
 }
